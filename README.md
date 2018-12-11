@@ -15,6 +15,7 @@ output:
 12265410 batch     tensor         <caseID> CG        0:00        2:00     1   1   2001 compt228
 12265412 batch     tensor         <caseID> PD        0:00        2:00     1   1   2001 (BeginTime)
 Note that the job is pending (PD - BeginTime ) to run at 12:00 noon next day.
+
 Also, check the next submit time
 ```
 scontrol show job <jobid>
