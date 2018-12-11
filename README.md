@@ -9,7 +9,7 @@ sbatch cron.sbatch
 This is a singularity job. Follow the instructions at [2].
 Monitor
 ```
-sque -u <caseID>
+squeue -u <userID>
 ```
 output:
 12265410 batch     tensor         <caseID> CG        0:00        2:00     1   1   2001 compt228
