@@ -1,5 +1,4 @@
-# slurm-cron
-Cron job implementation using SLURM in HPC
+# Cron job implementation using SLURM in HPC
 
 Download all the files in a working directory
 Submit the job
